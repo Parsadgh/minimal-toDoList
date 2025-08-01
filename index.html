@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="todo-wrapper">
+        <h2>📝 My To-Do List</h2>
+
+        <div class="input-row">
+            <input id="taskInput" type="text" placeholder="Add a new task..." autofocus />
+            <button onclick="addTask()">Add</button>
+        </div>
+
+        <ul id="taskList">
+            <!-- tasks -->
+            <li>
+                <div class='taskInfo'>
+                    <span class="task-text" contenteditable>Example</span>
+                    <span class="taskStatus statusInProgress">🟡 In Progress</span>
+                </div>
+
+                <div class="task-buttons">
+                    <button onclick='btnDone(this)'>✔</button>
+                    <button onclick='removeTask(this)' class="delete">🗑</button>
+                </div>
+            </li>
+        </ul>
+    </div>
+</body>
+<script src="master.js"></script>
+</html>
