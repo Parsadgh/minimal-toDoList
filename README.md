@@ -2,6 +2,14 @@
 
 A minimalist To-Do List web app built with HTML, JavaScript, and CSS. Featuring a dark-themed, responsive interface, it lets users add, edit, mark as done, or delete tasks effortlessly.
 
+<div align="center">
+  <img src="photo.jpg" alt="preview" width="500"/>
+</div>
+
+## Demo
+
+Check out the live demo: [Minimal To-Do List](https://parsadgh.github.io/minimal-toDoList/)
+
 ## Features
 
 - **Add Tasks**: Enter a task and click "Add" or press Enter.
@@ -48,10 +56,6 @@ A minimalist To-Do List web app built with HTML, JavaScript, and CSS. Featuring 
 - **HTML5**: Structure.
 - **CSS3**: Responsive design.
 - **JavaScript**: Dynamic interactions.
-
-## Demo
-
-Check out the live demo: [Minimal To-Do List](https://parsadgh.github.io/minimal-toDoList/)
 
 ## 📱 Find Me Online
 
