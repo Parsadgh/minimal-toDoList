@@ -3,7 +3,7 @@
 A minimalist To-Do List web app built with HTML, JavaScript, and CSS. Featuring a dark-themed, responsive interface, it lets users add, edit, mark as done, or delete tasks effortlessly.
 
 <div align="center">
-  <img src="photo.jpg" alt="preview" width="500"/>
+  <img src="photo.png" alt="preview" width="500"/>
 </div>
 
 ## Demo
